@@ -5,8 +5,8 @@ from sklearn.linear_model import LinearRegression, Ridge
 from sklearn.metrics import mean_squared_error as MSE
 import warnings
 import math
-import seaborn as sns
-import matplotlib.pyplot as plt
+#import seaborn as sns
+#import matplotlib.pyplot as plt
 
 
 
