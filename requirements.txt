@@ -2,6 +2,5 @@ xgboost
 numpy
 pandas
 streamlit
-random
 sklearn
 
