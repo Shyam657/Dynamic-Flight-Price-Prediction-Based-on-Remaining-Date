@@ -237,7 +237,7 @@ def optimise(df, journey_id):
 
 
 
-df2=optimise(df,journey_id)
+st.write(optimise(df,journey_id))
 
 
-st.write(df2)
+#st.write(df2)
